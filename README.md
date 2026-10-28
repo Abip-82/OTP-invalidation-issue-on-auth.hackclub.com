@@ -1,4 +1,4 @@
-# OTP-invalidation-issue-on-auth.hackclub.com
+# OTP-invalidation-issue-on-auth.hackclub.com leading to full read/write account access
 
 Status: Fixed
 Reported to: Hack Club Security Disclosure, published with permission from Hack Club Security
